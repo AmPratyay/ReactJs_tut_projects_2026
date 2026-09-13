@@ -1,0 +1,30 @@
+.counter{
+    height: 30vh;
+    width: 30%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin: 30px;
+    border-radius: 50%;
+}
+
+.increase{
+    height: 10vh;
+    width: 14%;
+    margin: 30px;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+    font-size: 25px;
+}
+
+.decrease{
+    height: 10vh;
+    width: 14%;
+    border-radius: 5px;
+    background-color: brown;
+    color: white;
+    font-size: 25px;
+}

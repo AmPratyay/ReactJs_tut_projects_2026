@@ -1,0 +1,19 @@
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+}
+
+
+.links{
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
